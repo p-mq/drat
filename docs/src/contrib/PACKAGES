@@ -1,8 +1,8 @@
 Package: adiposerefdata
-Version: 1.0.0
-Depends: R (>= 2.10)
+Version: 1.1.0
+Depends: R (>= 3.5)
 License: GPL-3
-MD5sum: 5ec548612715ee62c8188bf7391fc32f
+MD5sum: f3c2a97e7734bdb019cc09b814bd755b
 NeedsCompilation: no
 
 Package: drat
@@ -15,8 +15,8 @@ MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
 Package: musclerefdata
-Version: 1.0.0
-Depends: R (>= 2.10)
+Version: 1.1.0
+Depends: R (>= 3.5)
 License: GPL-3
-MD5sum: 2ae1b09939c6e6d95dd2ca349584705b
+MD5sum: cc267fce744ee36bb28ffbe3fc461e68
 NeedsCompilation: no
